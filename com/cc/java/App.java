@@ -4,6 +4,14 @@ public class App {
     
     public static void main(String[] args) {
      
+        Queen queen = new Queen();
+        Worker worker = new Worker();
+        Drone drone = new Drone();
+
+    
+
+
+
     }
 
     public static void output(String outputStr) {
