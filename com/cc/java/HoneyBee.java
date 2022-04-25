@@ -1,4 +1,4 @@
-package com.cc.java;//haha
+package com.cc.java;//hahaha
 
 public class HoneyBee {
     
